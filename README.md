@@ -18,28 +18,33 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> 1. using pokemon api(video game), to build app to show all pokemon, and their statistics for enthusiasm.
+> 2. youtube api to carry specific pokemon related videos.
+> 3. stratch goals: implement trading cards api too.
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> pokemon video gamers, or some ppl who interest w/ pokemon video game.
 
 - What problem does it solve?
 
-> Your answer here...
+> statistics of pokemons
 
 - Why is this problem important?
 
-> Your answer here...
+> A novice user does not memorize all the specific infos in his/her head.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> Giving actual info by searching (specific info like gender, abilities, and etc).
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> searching in the Bulbapedia, or buying some guide books.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> More user friendly.
+> focusing on the video games. (Bulbapedia contains animes & tcgs too)
+> guide books are more for novices, and cannot follow up some changes.
+
