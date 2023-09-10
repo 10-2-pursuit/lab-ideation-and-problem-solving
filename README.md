@@ -18,28 +18,44 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+1.”Wine & Sip” Generator 
+2.CRUD (Search by Name, Period, Style, Location of Origin)
+3.Social (Profiles, set their mood, display a set of art that user may like) “Tumblr”
+4.Suggestions to other paintings, based on relation (based on #2 user input)
+
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+ For everyone who wants to research art & art history.
+ Tourists, art enthusiasts.
+ Exhibit information, ticket information.
+ Socialites 
 
 - What problem does it solve?
 
-> Your answer here...
+Access to art & art history is inaccesible.
 
 - Why is this problem important?
 
-> Your answer here...
+Users are unable to find pieces of art & its info 
+Users would like to know what exihibits are currently being shown 
+Users would like to express there preferred art to others
+
 
 - How will this application solve the problem?
 
-> Your answer here...
+App able to be used as an encyclopedia for art pieces
+app able to show current and upcoming exhibits 
+app able to create user profiles, exhibit favorites to other users 
+
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+Google it(Lower quality version of the selected piece of art)
+Going to the Museum (Everyone doesnt have time to go)
+
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+Better quality images (Metropolitian grade images)
+Everyone has a smart phone, instant results & info
