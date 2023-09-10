@@ -18,28 +18,32 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> Using pokeon API (video game) to build an app to show all pokemon and their statistics for pokemon enthusists 
+> Youtbe API for specific pokemon related videos
+> Strech goal: implement pokemon trading card API
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> Pokemon gamers, or people who have interests in pokemon and the game.
 
 - What problem does it solve?
 
-> Your answer here...
+> statistics and overall knowledge of pokemon 
 
 - Why is this problem important?
 
-> Your answer here...
+> A novice user is not able to memorize all of the specifics of all the pokemon in the game in their head, this aleaviates that problem.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> Giving actual info by searching (specific infor like gender, abilities, characteristics)
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> Searching Bulbapedia, or buying guide books
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> More user friendly
+> Focus more on the video game 
+> Guide books need to be bought and they are for novices but cannot follow the freqent changes.
