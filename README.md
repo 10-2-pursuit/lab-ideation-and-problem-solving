@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> Your answer here... > An application that turns classic pictures to Minecraft paintings.
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> Your answer here... > Minecraft players that mod the game.
 
 - What problem does it solve?
 
-> Your answer here...
+> Your answer here... > Generates pictures for use in Minecraft. Also getting gamers interested in classic art.
 
 - Why is this problem important?
 
-> Your answer here...
+> Your answer here... > Staying true to the customizable nature of Minecraft - this will allow people to enjoy classic art in the game.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> Your answer here... > By automatically turning classic art into Minecraft paintings.
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> Your answer here... > By using bloated softwares with ads and subscriptions to generate it for them.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> Your answer here... > Straightforward, user friendly, and easy to download.
