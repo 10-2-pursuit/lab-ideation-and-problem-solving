@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> Having a handy adviser or guide with the use of my Bible_Roulette
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> This is for User who is looking for Divine Guidance, giving them verses from the Bible, that they could instantly read and reflect the moment they open the app.
 
 - What problem does it solve?
 
-> Your answer here...
+> This app will help the user to have a quick access to the Bible, and give them a verse that they could read and reflect on a daily basis.
 
 - Why is this problem important?
 
-> Your answer here...
+> Sometimes all we want is some guidance, and we don't know where to start, and this app will help the user to have a quick access to the Bible, and give them a verse that they could instantly read and hopefully reflect on a daily basis.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> Its very basic and simple, the user will just open the app, and click the button, and it will give them a random verse from the Bible.
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> To read the BIble is a very daunting task, and sometimes just by looking at the pages we tend to get lost specially for those who are not familiar with the bible and its contents. This app can help them know the Bible little by little by giving them snippets of verses that they could read and reflect and understand. So not to overwhelmed them with the pages of the Bible. But use this app as guide or a stepping stone to know the Bible.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> This app has no fancy features, its very basic and simple, the user will just open the app, and click the button, and it will give them a random verse from the Bible. Also if they are ready to read the Bible, they can click a button to start reading the Bible on their own pace.
