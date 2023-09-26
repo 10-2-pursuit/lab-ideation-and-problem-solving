@@ -18,28 +18,30 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> An app that visualizes audio from Spotify. Users will be able to customize the visualization.
+
+
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> Anyone who listens to spotify.
 
 - What problem does it solve?
 
-> Your answer here...
+> Its extends the reach of spotify by enable its music's effect to be experienced in a different way, one which may be greatly appreciated by the deaf.
 
 - Why is this problem important?
 
-> Your answer here...
+> Music has seeped into every aspect of our lives in a way that is always positive. Giving others the ability to experience this is important as an equalizer and as an avenue to better their lives as well.
 
 - How will this application solve the problem?
 
-> Your answer here...
+> The visualization along with the lyrics and beat makes the music almost alive and accessible even to the deaf.
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> Their are other visualization tools such as this or karaoke type visualizations.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> This will put it all together on a platform that can be made personal to the user and not generalized as in say a karaoke tape.
